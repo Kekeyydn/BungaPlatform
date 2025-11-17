@@ -1,0 +1,154 @@
+{
+  "result": [
+    {
+      "id": 1,
+      "name": "Mawar",
+      "latin": "Rosa",
+      "color": "Merah, putih, pink, kuning",
+      "origin_country": "Asia",
+      "habitat": "Daerah beriklim sejuk",
+      "description": "Bunga hias dengan aroma harum dan duri pada batangnya. Melambangkan cinta dan keindahan.",
+      "poster": "https://raw.githubusercontent.com/Kekeyydn/BungaPlatform/main/img/mawar.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Tulip",
+      "latin": "Tulipa Sp",
+      "color": "Merah, kuning, ungu, putih, pink",
+      "origin_country": "Turki",
+      "habitat": "Iklim sedang dan sejuk",
+      "description": "Bunga musim semi yang terkenal dengan kelopak sederhana dan elegan. Populer di Belanda.",
+      "poster": "https://raw.githubusercontent.com/Kekeyydn/BungaPlatform/main/img/tulip.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Anggrek",
+      "latin": "Orchidaceae",
+      "color": "Putih, ungu, pink, kuning",
+      "origin_country": "Daerah tropis dan subtropis",
+      "habitat": "Hutan lembap, dataran tinggi, dan dataran rendah tropis",
+      "description": "Bunga eksotis dengan bentuk unik dan beragam. Melambangkan keanggunan.",
+      "poster": "https://raw.githubusercontent.com/Kekeyydn/BungaPlatform/main/img/anggrek.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Bunga Matahari",
+      "latin": "Helianthus",
+      "color": "Kuning",
+      "origin_country": "Amerika Utara",
+      "habitat": "Daerah terbuka dengan sinar matahari penuh",
+      "description": "Bunga besar yang selalu menghadap matahari. Melambangkan keceriaan.",
+      "poster": "https://raw.githubusercontent.com/Kekeyydn/BungaPlatform/main/img/bunga_matahari.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "Lily",
+      "latin": "Lilium",
+      "color": "Putih, kuning, merah, oranye",
+      "origin_country": "Asia dan Eropa",
+      "habitat": "Iklim sedang dan sejuk",
+      "description": "Bunga harum dengan kelopak besar. Melambangkan kemurnian dan keanggunan.",
+      "poster": "https://raw.githubusercontent.com/Kekeyydn/BungaPlatform/main/img/lily.jpeg"
+    },
+    {
+      "id": 6,
+      "name": "Krisan",
+      "latin": "Chrysanthemum",
+      "color": "Kuning, putih, ungu, merah",
+      "origin_country": "Tiongkok",
+      "habitat": "Daerah beriklim sedang",
+      "description": "Bunga yang sering digunakan sebagai tanaman hias dan bunga potong. Melambangkan umur panjang.",
+      "poster": "https://raw.githubusercontent.com/Kekeyydn/BungaPlatform/main/img/krisan.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Melati",
+      "latin": "Jasminum",
+      "color": "Putih",
+      "origin_country": "Asia Selatan",
+      "habitat": "Iklim tropis dan subtropis",
+      "description": "Bunga kecil beraroma harum, sering digunakan pada dekorasi dan upacara tradisional.",
+      "poster": "https://raw.githubusercontent.com/Kekeyydn/BungaPlatform/main/img/melati.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Sakura",
+      "latin": "Prunus serrulata",
+      "color": "Pink, putih",
+      "origin_country": "Jepang",
+      "habitat": "Daerah beriklim dingin dan sedang",
+      "description": "Bunga ikonik Jepang dengan masa mekar singkat. Melambangkan keindahan dan kefanaan.",
+      "poster": "https://raw.githubusercontent.com/Kekeyydn/BungaPlatform/main/img/bunga_sakura.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Peony",
+      "latin": "Paeonia",
+      "color": "Pink, merah, putih",
+      "origin_country": "Tiongkok",
+      "habitat": "Daerah beriklim sedang",
+      "description": "Bunga besar dan rimbun yang melambangkan kemakmuran dan kehormatan.",
+      "poster": "https://raw.githubusercontent.com/Kekeyydn/BungaPlatform/main/img/peony.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Dahlia",
+      "latin": "Dahlia pinnata",
+      "color": "Merah, pink, putih, ungu",
+      "origin_country": "Meksiko",
+      "habitat": "Daerah beriklim sedang",
+      "description": "Bunga berlapis dengan warna cerah yang melambangkan kreativitas dan kekuatan.",
+      "poster": "https://raw.githubusercontent.com/Kekeyydn/BungaPlatform/main/img/dahlia.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Iris",
+      "latin": "Iris germanica",
+      "color": "Ungu, biru, putih, kuning",
+      "origin_country": "Eropa Selatan",
+      "habitat": "Daerah beriklim sedang",
+      "description": "Bunga elegan dengan bentuk unik, melambangkan kebijaksanaan dan keberanian.",
+      "poster": "https://raw.githubusercontent.com/Kekeyydn/BungaPlatform/main/img/iris.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Teratai",
+      "latin": "Nymphaea",
+      "color": "Pink, putih, kuning",
+      "origin_country": "Asia",
+      "habitat": "Danau, kolam, dan rawa",
+      "description": "Bunga air yang melambangkan kesucian dan ketenangan. Tumbuh mengapung di permukaan air.",
+      "poster": "https://raw.githubusercontent.com/Kekeyydn/BungaPlatform/main/img/teratai.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Bougainvillea",
+      "latin": "Bougainvillea",
+      "color": "Pink, ungu, merah, oranye",
+      "origin_country": "Brasil",
+      "habitat": "Iklim tropis dan kering",
+      "description": "Dikenal sebagai bunga kertas dengan warna cerah dan tumbuh merambat.",
+      "poster": "https://raw.githubusercontent.com/Kekeyydn/BungaPlatform/main/img/bougenvillea.JPG"
+    },
+    {
+      "id": 14,
+      "name": "Marigold",
+      "latin": "Tagetes",
+      "color": "Kuning, oranye",
+      "origin_country": "Meksiko",
+      "habitat": "Daerah beriklim hangat",
+      "description": "Bunga cerah yang sering digunakan dalam upacara dan dekorasi. Melambangkan kehangatan.",
+      "poster": "https://raw.githubusercontent.com/Kekeyydn/BungaPlatform/main/img/marigold.jpeg"
+    },
+    {
+      "id": 15,
+      "name": "Lavender",
+      "latin": "Lavandula",
+      "color": "Ungu",
+      "origin_country": "Mediterania",
+      "habitat": "Daerah beriklim kering dan hangat",
+      "description": "Bunga beraroma menenangkan, sering digunakan dalam aromaterapi dan minyak esensial.",
+      "poster": "https://raw.githubusercontent.com/Kekeyydn/BungaPlatform/main/img/lavender.jpg"
+    }
+  ]
+}
